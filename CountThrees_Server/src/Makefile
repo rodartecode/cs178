@@ -22,3 +22,4 @@ test :
 	cp ServerCountThrees ../build/ServerCountThrees
 	cp ../data/threesData.bin ../build/threesData.bin
 	../build/ServerCountThrees
+
